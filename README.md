@@ -40,7 +40,12 @@ I have created a **fully functional and visually interactive Sales Dashboard** s
 - Designed an **interactive dashboard** using Pivot Tables and Charts.  
 - Visualized KPIs such as **Total Sales, Top Products, Regional Performance, and Monthly Trends**.  
 
----
+--- 
+
+### Dashboard
+<img width="1850" height="657" alt="Screenshot 2025-11-04 215932" src="https://github.com/user-attachments/assets/d46c79f2-94ae-4a06-b37b-d1b345f0ccbc" />
+
+
 
 ## 📊 Key Outcomes
 - Built a dynamic and user-friendly dashboard for real-time business insights.  
